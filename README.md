@@ -2,8 +2,7 @@
 
 I don't use my instagram too much any more. But I like to have fun with my bio. This code updates my bio every minute with the current time (and a little message).
 
-![How it Looked]
-(working.PNG)
+![How it Looked](/working.PNG)
 
 
 ### Edit:
